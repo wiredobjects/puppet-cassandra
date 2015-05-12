@@ -1,0 +1,14 @@
+{
+  "name": "wiredobjects-cassandra",
+  "version": "0.1.0",
+  "author": "refnode",
+  "summary": "Puppet module for managing Apache / DataStack Cassandra",
+  "license": "Apache 2.0",
+  "source": "https://github.com/wiredobjects/puppet-cassandra.git",
+  "project_page": "https://github.com/wiredobjects/puppet-cassandra",
+  "issues_url": "https://github.com/wiredobjects/puppet-cassandra/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
